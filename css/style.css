@@ -1,0 +1,187 @@
+.post{
+    height: 340px;
+    width: 320px;
+    background-image: url(https://biomimicry.org/wp-content/uploads/2020/08/curious-teenage-girl-outdoor-school-student-with-magnifying-glass-examining-wildflowers-in-nature-753291687-5b561ae9c9e77c00371622cf-1080x675.jpg);
+    background-position:cover; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(164, 24, 24);
+    border-radius: 5px;
+    margin:5px;
+    padding:5px;
+    display: inline-block;
+}
+.para{
+    text-align: center;
+    font-size: 20px;
+    color: gold;
+}
+ .post12{
+    width:400px;
+    height: 230px;
+    background-image: url(https://image.architonic.com/sto3-1/20195836/Fast-Forest-chair-Radice-Quadra-table-arcit18.jpg);
+    background-size: cover;
+    border-radius: 5px;
+    margin: 10px;
+    padding:10px;
+    display: inline-block;
+    }
+.head4{
+    color: aliceblue;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+    text-align:justify;
+    margin: 5px;
+    padding: 5px;
+}
+.one{
+    color: rgba(252, 5, 5, 0.921);
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    background-color:auto;
+    padding: 8px;
+    background-position: auto;
+    border-radius: 5px;
+    color: auto;
+    text-decoration: none;
+    margin: 5PX;
+}
+a:hover{
+    margin-left: 10px;
+    transition: 400ms;
+}
+.post13{
+    color: darkkhaki;
+    width:290px;
+    height:250px;
+    border-radius: 10px;
+    background-color: darkcyan;
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+   } 
+.head5{
+    color: darkgrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.post6{
+    font-size: 13px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(127, 169, 56);
+    border-radius: 10px ;
+    height:340px;
+    width: 280px;
+    background-color: rgb(202, 120, 120);
+    margin: 5px;
+    padding: 5px;
+    display: inline-block; 
+    } 
+    .head1{
+        color: crimson;
+        font-size: 20px;
+    }
+    .post4{
+        background-image: url(https://i.pinimg.com/736x/22/b4/4f/22b44f7d72bdda7371f790546f69a885--nature-photos-twitter.jpg);
+        color:midnightblue;
+        font-family:sans-serif;
+        font-size: 10px;
+        width: 200px;
+        height: 280px;
+        border-radius: 10px;
+        margin: 5px;
+        padding: 5px;
+        display: inline-block; 
+    }
+    .blog_post{
+        border-radius: 20PX;
+        box-sizing: border-box;
+        box-shadow:400PX ;
+        font-family: Arial, Helvetica, sans-serif;
+        color: orangered;
+        text-align: center;
+        width: 250px;
+        margin-right: 10px;
+        height: 340px;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3fv1dVLCn8wiwfKC-zVoBRw-XmROUnsaNCg&usqp=CAU);
+        background-size: cover;
+        margin: 5px;
+        padding: 5px;
+        display: inline-block; 
+     }
+    .heading2{
+            color: crimson;
+     }
+        .heading1{
+            color: whitesmoke;
+        }
+        blog{
+            color:darksalmon;
+        }
+        .email{
+            background-color:darkcyan;
+        }
+        .POST{
+                background-color:paleturquoise;
+                background-image: url(https://media.istockphoto.com/id/1368265555/photo/vortex-split-view-of-blue-ocean-waters-surface.jpg?b=1&s=170667a&w=0&k=20&c=skudbEb7U9DwcIacPEHHsWQvmZYebkuFPdWARA3uJWU=);
+                width: 280PX;
+                font-family: Arial, Helvetica, sans-serif;
+                height: 320px;
+                text-align: center;
+                border-radius: 5px;
+                margin: 5px;
+                padding: 5px;
+                display: inline-block;
+            .picture1{
+        border-radius:10px ;
+        }
+        #para{
+            color: deeppink;
+        }
+        .post3{
+            color: blueviolet;
+            background-color:blueviolet;
+            font-family: Arial, Helvetica, sans-serif;
+            height:250px;
+            width:250px;
+        }
+        .post11{
+            background-color: blanchedalmond;
+            width: 300px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 20px;
+            height: 270px;
+            border-radius:20px ;
+            height: 220px;
+            margin: 5px;
+            padding: 5px;
+            display: inline-block;
+            }
+        .list{
+            color:rgb(210, 4, 103);
+            font-size: 10px;
+        }
+        .post8{
+            width:250px;
+            color:rgb(241, 240, 247);
+            height: 320px;
+            text-align: center;
+            background-position:left;
+            border-radius: 20px;
+            margin: 5px;
+            padding: 5px;
+            display: inline-block; 
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+           }
+        .web{
+            background-color: crimson;
+            border-radius: 40px;
+            width: 250px;
+            height:40px ;
+            text-align: center;
+            }
+        .topics1{
+            background-image:url(https://th.bing.com/th/id/OIP.3V0ZR8eUDv-HKWAGXeJDMQAAAA?pid=ImgDet&w=168&h=177&c=7&dpr=2);
+            color: black; 
+        }
+        
